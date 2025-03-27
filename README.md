@@ -169,7 +169,7 @@ fig.text(0.5, 0.05,
 
 plt.show()
 ```
-![](image\1_price_lease.png)
+![](image/1_price_lease.png)
 
 
 ### 2. What are the best options for resale flat investments in Singapore?
@@ -365,7 +365,7 @@ fig.suptitle("Best Town to invest in SG", fontsize=24, fontweight='bold', y=0.92
 
 plt.show()
 ```
-![](image\2_town.png)
+![](image/2_town.png)
 
 Sengkang is the second most popular town in Singapore for resale flats. It has experienced significant growth in resale prices, with a 47% increase and an average annual growth of around 10%. The price range is slightly lower than the average, while the room sizes are larger than typical flats.
 
@@ -376,11 +376,11 @@ Sengkang Town in Singapore is an attractive option for investing in resale flats
 After I got the result, I filtered down and do the same with flat_type, room size and storey.
 You can check the full code [HERE](https://github.com/Nuttaz/Python_Project/blob/main/Resale%20flat%20prices%20based%20on%20registration%20date%20from%20Jan-2017%20onwards.ipynb)
 
-![](image\3_flat_type.png)
+![](image/3_flat_type.png)
 
-![](image\4_room_size.png)
+![](image/4_room_size.png)
 
-![](image\5_storey.png)
+![](image/5_storey.png)
 
 ```python
 # Best Price Range for a 92 sqm, 4-room unit on the 10th to 12th floors to invest in Sengkang
@@ -437,7 +437,7 @@ fig.suptitle("Best Price Range for a 92 sqm, 4-room unit on the 10th to 12th flo
 
 plt.show()
 ```
-![](image\6_final.png)
+![](image/6_final.png)
 
 ## Conclusion of the analysis 
 
